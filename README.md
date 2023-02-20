@@ -62,7 +62,7 @@ Hi, this is just a little project from our education. It's fun to control other 
     ====================== IMPORTANT ==================
     NO file extension it's just FILE and NO text inside
     ```
-
+    
 #### Install Libraries
 
 I used Python 3.9.2
@@ -76,12 +76,11 @@ You can install libraries which error module detect, sorry.
 
 #### Setup Circuit
 
-
+![image](https://user-images.githubusercontent.com/100075097/220160476-07a09d54-8255-46a6-8dc0-c954c1820fa0.png)
 
 if you can't understand this, you can read GPIO in our python file.
 
 luma GPIO: https://luma-led-matrix.readthedocs.io/en/latest/install.html#max7219-devices-spi
-
 
 ### You can find /PATH/TO/DIRECTORY/ and replace it with your path
 
@@ -118,6 +117,12 @@ add this code below
 ```
 @/usr/bin/python3 /PATH/TO/DIRECTORY/autostart.py
 ```
+
+### Spotify Function
+
+API: https://developer.spotify.com/console/
+
+spotipy: https://spotipy.readthedocs.io/en/2.22.1/
 
 <hr />
 
