@@ -1,0 +1,6 @@
+client_id=ac2d360f7064489284d09adfcc9ab3ad
+client_secret=578b4532a44e4b12882c40e994edbe3e
+device_name=Raspberry_PI
+redirect_uri=http://localhost:8888/callback
+username=31iktpf46oj3jzrgbmjubtsnlw4m
+scope=user-read-private user-read-playback-state user-modify-playback-state
